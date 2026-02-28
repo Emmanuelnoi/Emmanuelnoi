@@ -11,7 +11,7 @@ Building accessible, well-tested production applications. Currently available fo
 | Project | Stack | Tests | Live |
 |---|---|---|---|
 | [**Talliofi**](https://github.com/Emmanuelnoi/talliofi) — Local-first personal finance planner | React 19 · TypeScript · Dexie · TanStack Query | 760+ | [talliofi.vercel.app](https://talliofi.vercel.app) |
-| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) — Interactive 3D geospatial learning platform | Angular · Three.js · WebGL · Supabase | 604 | [globeplay.world](https://www.globeplay.world/) |
+| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) — Interactive 3D geospatial learning platform | Angular 20 · Three.js · WebGL · Supabase | 604 | [globeplay.world](https://www.globeplay.world/) |
 | [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) — WCAG 2.0 AA rich text converter | Angular 19 · Tiptap · Playwright | 140+ | [richtext2markdown.com](https://www.richtext2markdown.com) |
 
 ---
@@ -28,9 +28,9 @@ Building accessible, well-tested production applications. Currently available fo
 
 ## Writing
 
-I write about frontend architecture, accessibility, and Angular/React patterns on [Dev.to](https://dev.to/emmanuelnoi).
+Occasional writing about frontend architecture, accessibility, and Angular/React patterns on [Dev.to](https://dev.to/emmanuelnoi).
 
 ---
 
-**Portfolio:** [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · **LinkedIn:** [linkedin.com/in/emmanuel-noi](https://www.linkedin.com/in/emmanuel-noi/)
+**Portfolio:** [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · **LinkedIn:** [linkedin.com/in/emmanuel-noi](https://www.linkedin.com/in/emmanuel-noi/) · **Resume:** [emmanuelnoi.dev/resume](https://www.emmanuelnoi.dev/resume)
 
