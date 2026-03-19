@@ -1,8 +1,9 @@
-# Emmanuel Noi
+Hi, I'm Emmanuel Noi!
+=======================
 
-**Frontend Engineer** specializing in Angular · React · TypeScript
+I’m a software engineer focused on building scalable, reliable systems. I started in front-end development and have since expanded into backend engineering, DevOps, and applied machine learning.
 
-Building accessible, well-tested production applications. Currently available for remote frontend roles in the US.
+Currently, I’m exploring declarative system design finding ways to reduce complexity and improve maintainability at both the infrastructure and application layers. I enjoy working across the stack, experimenting with new tools, and turning ideas into production ready solutions.
 
 ---
 
@@ -23,12 +24,6 @@ Building accessible, well-tested production applications. Currently available fo
 **Backend:** Spring Boot · JPA/Hibernate · REST APIs · Node.js  
 **Databases:** PostgreSQL · MySQL · MongoDB · IndexedDB  
 **Cloud & Tools:** AWS · Docker · Supabase · GitHub Actions · Vitest · Playwright · axe-core
-
----
-
-## Writing
-
-Occasional writing about frontend architecture, accessibility, and Angular/React patterns on [Dev.to](https://dev.to/emmanuelnoi).
 
 ---
 
