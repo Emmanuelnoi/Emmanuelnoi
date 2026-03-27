@@ -4,7 +4,7 @@
 
 I build fast, accessible, and maintainable web applications with Angular, TypeScript, and modern web standards. I care about clean component architecture, performance, and shipping software that works well for real users.
 
-🌐 [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-noi/) · 📄 [Resume](https://www.emmanuelnoi.dev/resume)
+🌐 [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-noi/) · ✍️ [Blog](https://dev.to/emmanueln07) · 📄 [Resume](https://www.emmanuelnoi.dev/resume)
 
 ---
 
@@ -22,6 +22,13 @@ I build fast, accessible, and maintainable web applications with Angular, TypeSc
 | [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) | Real-time geospatial dashboard with interactive 3D globe | Angular · Three.js · TypeScript |
 | [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) | WCAG 2.0 AA accessible rich text to markdown converter | Angular 19 · Tiptap · Playwright |
 | [**TallioFi**](https://github.com/Emmanuelnoi/talliofi) | Personal finance planner with local-first architecture | React 19 · TypeScript · Tailwind CSS v4 |
+
+---
+
+## Recent Writing
+
+- [Your Financial Data Should Live on Your Device — Here Is the Architecture That Makes That Possible](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
+- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
 
 ---
 
