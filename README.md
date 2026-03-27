@@ -1,31 +1,35 @@
-Hi, I'm Emmanuel Noi!
-=======================
+# Hi, I'm Emmanuel Noi
 
-I’m a software engineer focused on building scalable, reliable systems. I started in front-end development and have since expanded into backend engineering, DevOps, and applied machine learning.
+**Senior Frontend Engineer** specializing in Angular.
 
-Currently, I’m exploring declarative system design finding ways to reduce complexity and improve maintainability at both the infrastructure and application layers. I enjoy working across the stack, experimenting with new tools, and turning ideas into production ready solutions.
+I build fast, accessible, and maintainable web applications with Angular, TypeScript, and modern web standards. I care about clean component architecture, performance, and shipping software that works well for real users.
 
----
-
-## Featured Projects
-
-| Project | Stack | Tests | Live |
-|---|---|---|---|
-| [**Talliofi**](https://github.com/Emmanuelnoi/talliofi) — Local-first personal finance planner | React 19 · TypeScript · Dexie · TanStack Query | 760+ | [talliofi.vercel.app](https://talliofi.vercel.app) |
-| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) — Interactive 3D geospatial learning platform | Angular 20 · Three.js · WebGL · Supabase | 604 | [globeplay.world](https://www.globeplay.world/) |
-| [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) — WCAG 2.0 AA rich text converter | Angular 19 · Tiptap · Playwright | 140+ | [richtext2markdown.com](https://www.richtext2markdown.com) |
+🌐 [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · ✍️ [Blog](https://dev.to/emmanueln07) · 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-noi/) · 📄 [Resume](https://www.emmanuelnoi.dev/resume)
 
 ---
 
-## Tech
+## Currently
 
-**Languages:** TypeScript · JavaScript (ES6+) · Java · SQL · HTML5 · CSS3  
-**Frontend:** Angular (v17+) · React · Three.js/WebGL · RxJS · TanStack Query · Zustand · Tailwind CSS  
-**Backend:** Spring Boot · JPA/Hibernate · REST APIs · Node.js  
-**Databases:** PostgreSQL · MySQL · MongoDB · IndexedDB  
-**Cloud & Tools:** AWS · Docker · Supabase · GitHub Actions · Vitest · Playwright · axe-core
+- Building with **Angular 20** — signals, standalone components, SSR/SSG
+- Writing about frontend engineering on [dev.to](https://dev.to/emmanueln07)
+- Exploring advanced patterns in reactive state management with RxJS and Angular Signals
 
 ---
 
-**Portfolio:** [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · **LinkedIn:** [linkedin.com/in/emmanuel-noi](https://www.linkedin.com/in/emmanuel-noi/) · **Resume:** [emmanuelnoi.dev/resume](https://www.emmanuelnoi.dev/resume)
+## Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) | Real-time geospatial dashboard with interactive maps | Angular · Leaflet · TypeScript |
+| [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) | WCAG 2.0 AA accessible rich text to markdown converter | Angular 19 · Tiptap · Playwright |
+| [**TallioFi**](https://github.com/Emmanuelnoi/talliofi) | Personal finance planner with local-first architecture | Angular · TypeScript · Tailwind CSS |
+
+---
+
+## Tech Stack
+
+**Core:** Angular (v17–20) · TypeScript · RxJS · Tailwind CSS · HTML5 · CSS3
+
+**Testing:** Vitest · Playwright · axe-core
+
+**Tools:** GitHub Actions · Supabase · Vercel
