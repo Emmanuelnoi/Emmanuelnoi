@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel Noi
 
-**Senior Frontend Engineer** specializing in Angular.
+**Software Engineer** building fast, accessible, and well-tested web applications.
 
-I build fast, accessible, and maintainable web applications with Angular, TypeScript, and modern web standards. I care about clean component architecture, performance, and shipping software that works well for real users.
+I specialize in Angular, React, and TypeScript with hands-on experience across the full SDLC — from architecture and implementation to testing, debugging, and post-release support. I care about clean component architecture, quality assurance, and shipping software that works well for real users.
 
 🌐 [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-noi/) · ✍️ [Blog](https://dev.to/emmanueln07) · 📄 [Resume](https://www.emmanuelnoi.dev/resume)
 
@@ -11,7 +11,8 @@ I build fast, accessible, and maintainable web applications with Angular, TypeSc
 ## Currently
 
 - Building with **Angular 20** — signals, standalone components, SSR/SSG
-- Exploring advanced patterns in reactive state management with RxJS and Angular Signals
+- Writing about software architecture and quality engineering on [dev.to](https://dev.to/emmanueln07)
+- Maintaining 1,500+ automated tests across 3 production projects
 
 ---
 
@@ -36,6 +37,6 @@ I build fast, accessible, and maintainable web applications with Angular, TypeSc
 
 **Core:** Angular (v17–20) · React · TypeScript · RxJS · Tailwind CSS · HTML5 · CSS3
 
-**Testing:** Vitest · Playwright · axe-core
+**Testing & Quality:** Vitest · Playwright · axe-core · GitHub Actions CI/CD
 
-**Tools:** GitHub Actions · Supabase · Vercel
+**Tools:** JIRA · Supabase · Vercel · Docker · AWS
