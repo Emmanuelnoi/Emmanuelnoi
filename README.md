@@ -1,18 +1,26 @@
 # Hi, I'm Emmanuel Noi
 
-**Software Engineer** building fast, accessible, and well-tested web applications.
+**Senior Frontend Engineer (Angular + React)** building frontend systems that stay fast, usable, and reliable in production.
 
-I specialize in Angular, React, and TypeScript with hands-on experience across the full SDLC — from architecture and implementation to testing, debugging, and post-release support. I care about clean component architecture, quality assurance, and shipping software that works well for real users.
+I specialize in Angular, React, and TypeScript across architecture, implementation, testing, debugging, and post-release support. I focus on frontend systems that are accessible, well-tested, and built to hold up under real product demands.
 
 🌐 [emmanuelnoi.dev](https://www.emmanuelnoi.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-noi/) · ✍️ [Blog](https://dev.to/emmanueln07) · 📄 [Resume](https://www.emmanuelnoi.dev/resume)
 
 ---
 
+## Impact
+
+- Shipped **3 production portfolio projects** with live demos and public case studies
+- Maintained **1,300+ automated tests** across featured projects
+- Built with a strong focus on **performance, accessibility, and delivery quality**
+
+---
+
 ## Currently
 
-- Building with **Angular 20** — signals, standalone components, SSR/SSG
+- Building with **Angular 20** using signals, standalone components, and SSR/SSG
 - Writing about software architecture and quality engineering on [dev.to](https://dev.to/emmanueln07)
-- Maintaining 1,500+ automated tests across 3 production projects
+- Maintaining **1,300+ automated tests** across featured projects
 
 ---
 
@@ -20,9 +28,17 @@ I specialize in Angular, React, and TypeScript with hands-on experience across t
 
 | Project | Description | Stack |
 |---|---|---|
-| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) | Real-time geospatial dashboard with interactive 3D globe | Angular · Three.js · TypeScript |
-| [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) | WCAG 2.0 AA accessible rich text to markdown converter | Angular 19 · Tiptap · Playwright |
-| [**TallioFi**](https://github.com/Emmanuelnoi/talliofi) | Personal finance planner with local-first architecture | React 19 · TypeScript · Tailwind CSS v4 |
+| [**GlobePlay**](https://github.com/Emmanuelnoi/globe-dashboard) | Interactive 3D geospatial learning platform with real-time data and quiz flows | Angular · Three.js · TypeScript |
+| [**Richtext2Markdown**](https://github.com/Emmanuelnoi/text-to-markdown) | Accessibility-first rich text to markdown editor with real-time conversion and strong test coverage | Angular · Tiptap · Playwright |
+| [**Talliofi**](https://github.com/Emmanuelnoi/talliofi) | Privacy-first personal finance planner with local-first architecture and deep test coverage | React · TypeScript · IndexedDB |
+
+---
+
+## Senior Signals
+
+- Architect frontend systems with attention to maintainability, performance, and usability
+- Build quality into delivery with automated testing, CI/CD, and production-focused debugging
+- Work across implementation, stabilization, and support rather than stopping at feature delivery
 
 ---
 
@@ -35,7 +51,7 @@ I specialize in Angular, React, and TypeScript with hands-on experience across t
 
 ## Tech Stack
 
-**Core:** Angular (v17–20) · React · TypeScript · RxJS · Tailwind CSS · HTML5 · CSS3
+**Core:** Angular 14+ · React · TypeScript · RxJS · Tailwind CSS · HTML5 · CSS3
 
 **Testing & Quality:** Vitest · Playwright · axe-core · GitHub Actions CI/CD
 
