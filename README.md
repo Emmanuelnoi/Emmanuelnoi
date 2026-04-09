@@ -34,14 +34,6 @@ I specialize in Angular, React, and TypeScript across architecture, implementati
 
 ---
 
-## Senior Signals
-
-- Architect frontend systems with attention to maintainability, performance, and usability
-- Build quality into delivery with automated testing, CI/CD, and production-focused debugging
-- Work across implementation, stabilization, and support rather than stopping at feature delivery
-
----
-
 ## Recent Writing
 
 - [Your Financial Data Should Live on Your Device — Here Is the Architecture That Makes That Possible](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
