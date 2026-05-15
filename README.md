@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Emmanuel Noi 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Engineer</b> • Angular • React • TypeScript
+  <b>Frontend Engineer</b> • Angular • React • TypeScript
 </p>
 
 <p align="center">
