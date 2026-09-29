@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://www.emmanuelnoi.dev">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/emmanuel-noi/">💼 LinkedIn</a> •
-  <a href="https://dev.to/emmanueln07">✍️ Blog</a> •
   <a href="https://www.emmanuelnoi.dev/assets/resume/Emmanuel_Noi_Resume.pdf">📄 Resume</a>
 </p>
 
