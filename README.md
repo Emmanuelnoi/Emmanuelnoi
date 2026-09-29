@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Emmanuel Noi 👋</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer</b> • Angular • React • TypeScript • ava/Spring
+  <b>Software Engineer</b> • Angular • React • TypeScript • Next.js
 </p>
 
 <p align="center">
-  I build scalable, high-performance frontend systems with a strong focus on 
-  <b>architecture, reliability, and test automation</b>.
+  I build scalable frontend systems with a strong focus on
+  <b>reusable component architecture, reliability, and maintainability</b>.
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-1300%2B%20Tests-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Architecture%20%26%20Performance-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Reusable%20Architecture-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -32,18 +32,9 @@
 ## 🚀 What I Do
 
 - Design **scalable frontend architectures** for complex, data-driven apps  
-- Build **production-grade UI systems** with strong performance guarantees  
+- Build **production-grade UI systems** with reusable component architecture
 - Implement **end-to-end test strategies** (unit → E2E → accessibility)  
 - Turn complex requirements into **clean, maintainable interfaces**  
-
----
-
-## 📊 Impact
-
-- 🧪 Built and maintained **1,300+ automated tests**
-- 🚀 Shipped **3 production applications** with live demos
-- ⚡ Focused on **performance, accessibility, and reliability**
-- 🧠 Strong emphasis on **system design and maintainability**
 
 ---
 
@@ -59,8 +50,11 @@
 
 ## 🛠 Core Stack
 
-**Frontend**  
-Angular • React • TypeScript • RxJS • Tailwind  
+**Frontend**
+Angular • React • Next.js • TypeScript • RxJS • Tailwind
+
+**React Ecosystem**
+Redux Toolkit • React Router • TanStack Query • React Hook Form
 
 **Testing**  
 Vitest • Playwright • axe-core • E2E • Accessibility  
