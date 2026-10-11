@@ -20,7 +20,8 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-ef4444?style=for-the-badge"
+    alt="Frontend: Angular | React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Reusable%20Architecture-purple?style=for-the-badge" />
